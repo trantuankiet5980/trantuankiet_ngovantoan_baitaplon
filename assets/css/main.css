@@ -338,3 +338,48 @@ table {
 	color: #323842FF;
 	background: #F3F4F6FF;
 }
+/* Person vote */
+.person-vote {
+	display: flex;
+	margin-top: 70px;
+}
+.person-vote-evaluate {
+	margin-left: 70px;
+}
+.person-vote-evaluate-5s {
+	margin-top: 50px;
+}
+.person-vote-evaluate-text {
+	font-size: 20px; 
+	line-height: 30px; 
+	color: #BCC1CAFF;
+	margin: 30px 0;
+}
+.person-vote-evaluate-name {
+	display: flex;
+	justify-content: space-between;
+}
+.person-vote-evaluate-name-1 {
+	color: #BCC1CAFF;
+}
+.person-vote-evaluate-name-1a {
+	font-weight: 900;
+	margin-bottom: 7px;
+}
+.person-vote-evaluate-name-2 {
+	display: flex;
+}
+.person-vote-evaluate-name-2a {
+	width: 20px; 
+	height: 10px; 
+	background: #00BDD6FF;
+	border-radius: 5px; 
+	margin-left: 5px;
+}
+.person-vote-evaluate-name-2b {
+	margin-left: 5px;
+	width: 10px; 
+	height: 10px; 
+	background: #323842FF; 
+	border-radius: 5px; 
+}
