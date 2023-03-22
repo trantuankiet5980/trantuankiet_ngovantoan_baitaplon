@@ -300,3 +300,41 @@ table {
 	margin: 0 20px;
 	margin-bottom: 20px;
 }
+/* Page Get started */
+.page-get-started {
+	width: 1176px; 
+	height: 384px; 
+	background: #00BDD6FF;
+	border-radius: 8px;
+	margin-top: 70px;
+	display: flex;
+}
+.page-get-started-left {
+	margin: 70px 80px;
+}
+.page-get-started-left-title {
+	font-size: 48px; 
+	line-height: 68px; 
+	color: #FFFFFFFF;
+	margin-bottom: 10px;
+}
+.page-get-started-left-text {
+	font-size: 18px; 
+	line-height: 28px; 
+	color: #FFFFFFFF;
+}
+.page-get-started-left-btn {
+	padding: 8px;
+	margin-top: 20px;
+	font-size: 18px; 
+	line-height: 28px; 
+	color: #323842FF;
+	background: #FFFFFFFF; 
+	opacity: 1; 
+	border: none; 
+	border-radius: 4px;
+}
+.page-get-started-left-btn:hover {
+	color: #323842FF;
+	background: #F3F4F6FF;
+}
