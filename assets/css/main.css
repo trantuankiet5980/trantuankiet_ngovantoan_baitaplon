@@ -99,7 +99,7 @@ table {
 	background: #00A9C0FF;
 }
 .page-container {
-	margin: 0 150px;
+	margin: 0 160px;
 }
 /* Page Header */
 .page-header {
@@ -157,9 +157,6 @@ table {
 	margin-top: 40px;
 	border-radius: 8px;
 }
-.page-product-teams {
-	
-}
 .page-product-teams-text {
 	margin-top: 100px;
 	margin-bottom: 20px;
@@ -167,4 +164,75 @@ table {
 	font-size: 24px; 
   	line-height: 36px; 
   	color: #FFFFFFFF;
+}
+/* Page Feature */
+.page-feature {
+	margin-top: 100px;
+}
+.page-feature-intro {
+	display: flex;
+	margin-bottom: 50px;
+}
+.page-feature-intro-1 {
+	margin-top: 110px;
+}
+.page-feature-intro-1-name {
+	font-size: 40px; 
+	line-height: 56px; 
+	color: #FFFFFFFF; 
+}
+.page-feature-intro-1-text {
+	margin-top: 20px;
+	font-size: 18px; 
+  	line-height: 28px; 
+  	color: #9095A0FF;
+}
+.page-feature-intro-1-button {
+	margin-top: 10px;
+}
+.page-feature-intro-1-button-1 {
+	padding: 7px 16px 7px;
+	color: #FFFFFFFF; 
+  	background: #00BDD6FF;
+	border: none; 
+	border-radius: 4px;
+}
+.page-feature-intro-1-button-1:hover {
+	color: #FFFFFFFF;
+  	background: #00A9C0FF;
+}
+.page-feature-intro-1-button-2 {
+	padding: 7px 16px 7px;
+	color: #00BDD6FF;
+	background: #00000000;
+	border: none; 
+	border-radius: 4px;
+}
+.page-feature-intro-1-button-2:hover {
+	color: #00BDD6FF;
+  	background: #A6F5FFFF
+}
+.page-feature-intro-img-1 {
+	margin-left: 100px;
+	width: 727px; 
+	height: 368px; 
+	background: #A07CE9FF;
+	border-radius: 4px; 
+	box-shadow: 0px 0px 1px #171a1f, 0px 0px 2px #171a1f;
+}
+.page-feature-intro-img-2 {
+	margin-right: 100px;
+	width: 727px; 
+	height: 368px; 
+	background: #ED7D2DFF;
+	border-radius: 4px; 
+	box-shadow: 0px 0px 1px #171a1f, 0px 0px 2px #171a1f;
+}
+.page-feature-intro-img-3 {
+	margin-left: 100px;
+	width: 727px; 
+	height: 368px; 
+	background: rgb(219, 52, 74);
+	border-radius: 4px; 
+	box-shadow: 0px 0px 1px #171a1f, 0px 0px 2px #171a1f;
 }
