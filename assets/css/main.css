@@ -44,7 +44,7 @@ table {
 	border-spacing: 0;
 }
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Roboto:wght@300;400;500;700&display=swap');
-/* Home */
+/* HomePage*/
 .page {
 	background-color: black;
 }
@@ -97,6 +97,9 @@ table {
 .page-navbar-sign-up:hover {
 	color: #FFFFFFFF; 
 	background: #00A9C0FF;
+}
+.page-container {
+	margin: 0 150px;
 }
 /* Page Header */
 .page-header {
@@ -153,4 +156,15 @@ table {
 .page-header-img {
 	margin-top: 40px;
 	border-radius: 8px;
+}
+.page-product-teams {
+	
+}
+.page-product-teams-text {
+	margin-top: 100px;
+	margin-bottom: 20px;
+	text-align: center;
+	font-size: 24px; 
+  	line-height: 36px; 
+  	color: #FFFFFFFF;
 }
