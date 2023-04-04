@@ -1,0 +1,51 @@
+.pricing {
+    margin-top:60px;
+}
+.pricing-title {
+    font-size: 48px; 
+    line-height: 68px; 
+    color: #F3F4F6FF;
+    display: flex;
+    justify-content:center;
+}
+.pricing-text {
+    font-size: 18px; 
+    line-height: 28px; 
+    color: #565E6CFF; 
+    display: flex;
+    justify-content:center;
+}
+.pricing-btn {
+    display: flex;
+    justify-content:center;
+    margin-top: 20px;
+}
+.pricing-btn-month {
+    padding: 9px 40px;
+    font-size: 18px; 
+    line-height: 28px; 
+    color: #FFFFFFFF;
+    background: #00BDD6FF; 
+    opacity: 1; 
+    border: none; 
+    border-radius: 26px;
+    margin-right: 20px ;
+}
+.pricing-btn-month:hover {
+    color: #FFFFFFFF;
+    background: #00A9C0FF;
+}
+.pricing-btn-year {
+    padding: 9px 40px;
+    font-size: 18px; 
+    line-height: 28px; 
+    color: #00BDD6FF;
+    background: #00000000;
+    opacity: 1; 
+    border: none; 
+    border-radius: 26px;
+}
+.pricing-btn-year:hover {
+    color: #00BDD6FF; 
+    background: #A6F5FFFF;
+}
