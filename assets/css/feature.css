@@ -1,0 +1,17 @@
+.feature {
+    margin-top: 60px;
+}
+.feature-title {
+    font-size: 56px; 
+    line-height: 78px; 
+    color: #F3F4F6FF;
+    display: flex;
+    justify-content:center;
+}
+.feature-text {
+    font-size: 20px; 
+    line-height: 30px; 
+    color: #9095A0FF;
+    display: flex;
+    justify-content:center;
+}
