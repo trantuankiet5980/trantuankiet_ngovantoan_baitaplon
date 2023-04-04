@@ -169,3 +169,117 @@
     border-style: solid;
     margin: 25px 0px;
 }
+.pricing-plans {
+    margin-top:150px;
+}
+.pricing-plans-title {
+    font-size: 48px; 
+    line-height: 68px; 
+    color: #F3F4F6FF;
+    display: flex;
+    justify-content: center;
+}
+.pricing-plans-content {
+    margin-top: 20px;
+    color: #fff;
+    display: flex;
+    justify-content:space-between;
+}
+.pricing-plans-content-main-1 {
+    margin-right: 20px;
+}
+.pricing-plans-content-text-1 {
+    font-size: 24px; 
+    line-height: 36px; 
+    color: #00BDD6FF;
+    margin-top: 70px;
+}
+.pricing-plans-content-text-2 {
+    font-size: 18px; 
+    line-height: 28px; 
+    color: #9095A0FF;
+    margin-top: 35px;
+}
+.pricing-plans-content-1 {
+    width: 265px;
+    background: #000000FF; 
+    border-radius: 4px; 
+    border: 1px solid #323842FF;
+    display: grid;
+}
+.pricing-plans-content-main {
+    width: 265px;
+    background: #171A1FFF;
+    border-radius: 4px; 
+    border: 1px solid #323842FF;
+    display: grid;
+}
+.pricing-plans-content-1-title {
+    font-size: 20px; 
+    line-height: 30px; 
+    color: #FFFFFFFF;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+}
+.pricing-plans-content-main-title {
+    font-size: 20px; 
+    line-height: 30px; 
+    color: #00BDD6FF;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px
+}
+.pricing-plans-content-1-date {
+    display: flex;
+    justify-content: center;
+    margin-top: -20px;
+}
+.pricing-plans-content-1-date-dola {
+    font-size: 20px; 
+    color: #FFFFFFFF;
+}
+.pricing-plans-content-1-date-month {
+    font-size: 14px; 
+    line-height: 22px; 
+    color: #9095A0FF;
+}
+.pricing-plans-content-1-btn {
+    margin-left: 35px;
+    width: 200px; 
+    height: 44px;
+    background: #00000000;
+    font-size: 16px;
+    color: #9095A0FF;
+    border-radius: 5px;
+    border: 1px solid #9095A0FF;
+}
+.pricing-plans-content-1-btn:hover {
+    color: #6E7787FF;
+    background: #00000000;
+}
+/*  */
+.pricing-plans-content-main-btn {
+    margin-left: 35px;
+    width: 200px; 
+    height: 44px;
+    font-size: 16px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+    border-radius: 5px;
+    border: 1px solid #9095A0FF;
+}
+.pricing-plans-content-main-btn:hover {
+    color: #6E7787FF;
+    background: #00000000;
+}
+.pricing-plands {
+    margin-top: 40px;
+    margin-left: 110px;
+}
+.pricing-plans-content-1 > img {
+    margin-left: 110px;
+}
+.pricing-plans-content-main > img {
+    margin-left: 110px;
+}
