@@ -1,0 +1,102 @@
+.center {
+    background: #0000;
+}
+
+.aboutus {
+    height: 880px;
+    margin-top: 60px;
+}
+
+.text1 {
+    text-align: center;
+    color: #F3F4F6FF;
+    font-size: 54px;
+}
+
+.text2 {
+    text-align: center;
+    align-items: center;
+    color: #9095A0FF;
+    font-size: 20px;
+    padding: 10px 0
+}
+
+.aboutus-img {
+    border-radius: 8px;
+    padding: 10px 0;
+}
+
+.VisMis {
+    display: flex;
+    height: 368px;
+    margin-top: 96px;
+}
+
+.vis {
+    display: flex;
+    margin-right: 15px;
+}
+
+.vis-1 {
+    width: 60px;
+    height: 54px;
+    background: #00BDD6FF;
+}
+
+.vis-2 {
+    padding: 0 20px;
+}
+
+.vis-2-text1 {
+    font-size: 32px;
+    line-height: 48px;
+    color: #DEE1E6FF;
+}
+
+.vis-2-text2 {
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+}
+
+.mis {
+    display: flex;
+    margin-left: 10px;
+}
+
+.mis-1 {
+    width: 60px;
+    height: 54px;
+    background: #A07CE9FF;
+}
+
+.mis-2 {
+    padding: 0 20px;
+}
+
+.mis-2-text1 {
+    font-size: 32px;
+    line-height: 48px;
+    color: #DEE1E6FF;
+}
+
+.mis-2-text2 {
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+}
+.OurTeam{
+    height: 1176px;
+}
+.OurTeam-text1{
+    font-size: 48px;
+    line-height: 68px;
+    text-align: center;
+    color: #F3F4F6FF;
+}
+.OurTeam-text2{
+    text-align: center;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+}
