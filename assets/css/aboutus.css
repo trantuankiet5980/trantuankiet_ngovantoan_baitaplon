@@ -28,8 +28,8 @@
 
 .VisMis {
     display: flex;
-    height: 368px;
-    margin-top: 96px;
+    height: 330px;
+    margin-top: 56px;
 }
 
 .vis {
@@ -85,18 +85,92 @@
     line-height: 28px;
     color: #9095A0FF;
 }
-.OurTeam{
+
+.OurTeam {
     height: 1176px;
 }
-.OurTeam-text1{
+
+.OurTeam-text1 {
     font-size: 48px;
     line-height: 68px;
     text-align: center;
     color: #F3F4F6FF;
 }
-.OurTeam-text2{
+
+.OurTeam-text2 {
     text-align: center;
     font-size: 18px;
     line-height: 28px;
     color: #9095A0FF;
+    padding: 15px 0;
+}
+
+.OurTeam-intro {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.intro {
+    height: 402px;
+    width: 276px;
+    background: #171A1fff;
+    border-radius: 6px;
+    border: 1px solid ;
+    margin-left: 13px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.intro-img1 {
+    height: 180px;
+    width: 276px;
+    background: #1CE5FFFF;
+    border-radius: 6px;
+}
+.intro-text1 {
+    font-size: 18px;
+    text-align: center;
+    color: #ffffff;
+    line-height: 28px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+.intro-text2 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #00BDD6FF;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 8px;
+}
+.intro-text3{
+    font-size: 16px; 
+  line-height: 26px; 
+  color: #9095A0FF;
+  text-align: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+.intro-icon{
+    text-align: center;
+    margin-top: 15px;
+}
+.intro-img2 {
+    height: 180px;
+    width: 276px;
+    background: #8353e2;
+    border-radius: 6px;
+}
+.intro-img3 {
+    height: 180px;
+    width: 276px;
+    background:  #ef9834;
+    border-radius: 6px;
+}
+.intro-img4 {
+    height: 180px;
+    width: 276px;
+    background:  #e05858;
+    border-radius: 6px;
 }
