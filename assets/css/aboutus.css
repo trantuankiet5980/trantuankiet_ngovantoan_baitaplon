@@ -3,7 +3,7 @@
 }
 
 .aboutus {
-    height: 880px;
+    height: 930px;
     margin-top: 60px;
 }
 
@@ -28,8 +28,7 @@
 
 .VisMis {
     display: flex;
-    height: 330px;
-    margin-top: 56px;
+    height: 340px;
 }
 
 .vis {
@@ -87,7 +86,7 @@
 }
 
 .OurTeam {
-    height: 1176px;
+    height: 1130px;
 }
 
 .OurTeam-text1 {
@@ -114,18 +113,18 @@
     height: 402px;
     width: 276px;
     background: #171A1fff;
-    border-radius: 6px;
+    border-radius: 8px;
     border: 1px solid ;
-    margin-left: 13px;
+    /* margin-left: 5px;  */
     margin-top: 5px;
     margin-bottom: 10px;
+    margin-right: 22px;
 }
 
 .intro-img1 {
     height: 180px;
     width: 276px;
     background: #1CE5FFFF;
-    border-radius: 6px;
 }
 .intro-text1 {
     font-size: 18px;
@@ -160,17 +159,53 @@
     height: 180px;
     width: 276px;
     background: #8353e2;
-    border-radius: 6px;
+    
 }
 .intro-img3 {
     height: 180px;
     width: 276px;
     background:  #ef9834;
-    border-radius: 6px;
+    
 }
 .intro-img4 {
     height: 180px;
     width: 276px;
     background:  #e05858;
-    border-radius: 6px;
+    
+}
+.JoinOurTeam {
+	width: 1176px; 
+	height: 384px; 
+    background: #171A1FFF;
+	border-radius: 8px;
+	display: flex;
+}
+.JoinOurTeam-left {
+	margin: 70px 80px;
+}
+.JoinOurTeam-left-title {
+	font-size: 48px; 
+	line-height: 68px; 
+	color: #FFFFFFFF;
+	margin-bottom: 10px;
+}
+.JoinOurTeam-left-text {
+	font-size: 18px; 
+	line-height: 28px; 
+	color: #FFFFFFFF;
+}
+.JoinOurTeam-left-btn {
+	padding: 8px;
+	margin-top: 20px;
+	font-size: 18px; 
+	line-height: 28px; 
+	color: #323842FF;
+    background: #00BDD6FF;
+	opacity: 1; 
+	border: none; 
+	border-radius: 4px;
+}
+.JoinOurTeam-left-btn:hover {
+	color: #323842FF;
+	background: #F3F4F6FF;
 }
