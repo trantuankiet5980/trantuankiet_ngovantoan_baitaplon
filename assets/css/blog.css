@@ -1,6 +1,5 @@
 .page-blog-header {
-    width: 1440px;
-    height: 602px;
+    height: 520px;
     background: #000000FF;
     border-radius: 0px
 }
@@ -104,4 +103,209 @@
 .btt:hover {
     color: #323842FF;
     background: #CFD2DAFF;
+}
+
+.page-blog-latestPosts {
+    margin-top: 76px;
+    height: 1000px;
+    background: #000000FF;
+    border-radius: 0px;
+}
+
+.page-blog-latestPosts-text1 {
+    margin-top: 36px;
+    font-family: Epilogue;
+    font-size: 48px;
+    line-height: 68px;
+    color: #FFFFFFFF;
+}
+.page-blog-latestPosts-intro1 {
+    width: 1176px;
+    height: 314px;
+    background: #000000FF;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #323842FF;
+    border-style: solid;
+    display: flex;
+    margin-top: 33px;
+}
+.page-blog-latestPosts-intro1-left-img{
+    width: 588px; 
+    height: 314px; 
+    border-radius: 5px;
+    background: #ED7D2DFF;
+}
+.page-blog-latestPosts-intro1-right{
+    width: 588px;
+}
+.page-blog-latestPosts-intro1-right-text1 {
+    margin-top: 56px;
+    margin-left: 56px;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 26px;
+    color: #00BDD6FF;
+}
+
+.page-blog-latestPosts-intro1-right-text2 {
+    margin-top: 12px;
+    margin-left: 56px;
+    width: 475px;
+    font-family: Epilogue;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFFFF;
+}
+
+.page-blog-latestPosts-intro1-right-text3 {
+    margin-top: 7px;
+    margin-left: 56px;
+    width: 475px;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+}
+
+.page-blog-latestPosts-intro1-right-text4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt {
+    margin-top: 17px;
+    margin-left: 56px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    color: #9095A0FF;
+}
+
+.bttt {
+    margin-top: 17px;
+    left: 448px;
+    width: 83px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+    font-size: 12px;
+    line-height: 20px;
+    margin-right: 122px;
+}
+
+.btttt {
+    height: 28px;
+    padding-left: 6px;
+    padding-right: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+    
+}
+
+.btttt:hover {
+    color: #FFFFFFFF;
+    background: #0095A9FF;
+}
+.page-blog-latestPosts-intro2 {
+    width: 1176px;
+    height: 314px;
+    background: #000000FF;
+    border-radius: 8px;
+    border-width: 1px;
+    border-color: #323842FF;
+    border-style: solid;
+    display: flex;
+    margin-top: 33px;
+}
+.page-blog-latestPosts-intro2-left{
+    width: 588px;
+}
+.page-blog-latestPosts-intro2-left-text1 {
+    margin-top: 56px;
+    margin-left: 56px;
+    font-family: Inter;
+    font-size: 16px;
+    line-height: 26px;
+    color: #00BDD6FF;
+}
+
+.page-blog-latestPosts-intro2-left-text2 {
+    margin-top: 12px;
+    margin-left: 56px;
+    width: 475px;
+    font-family: Epilogue;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFFFF;
+}
+
+.page-blog-latestPosts-intro2-left-text3 {
+    margin-top: 7px;
+    margin-left: 56px;
+    width: 475px;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+}
+
+.page-blog-latestPosts-intro2-left-text4 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.txt {
+    margin-top: 17px;
+    margin-left: 56px;
+    font-family: Inter;
+    font-size: 14px;
+    line-height: 22px;
+    color: #9095A0FF;
+}
+
+.bttt {
+    margin-top: 17px;
+    left: 448px;
+    width: 83px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    font-family: Inter;
+    font-size: 12px;
+    line-height: 20px;
+    margin-right: 122px;
+}
+
+.btttt {
+    height: 28px;
+    padding-left: 6px;
+    padding-right: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 14px;
+    font-size: 12px;
+    line-height: 20px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+    
+}
+
+.btttt:hover {
+    color: #FFFFFFFF;
+    background: #0095A9FF;
+}
+.page-blog-latestPosts-intro2-right-img{
+    width: 588px; 
+    height: 314px; 
+    border-radius: 5px;
+    background: #6B8BEBFF;
 }
