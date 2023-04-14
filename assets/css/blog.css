@@ -1,12 +1,107 @@
-.page-blog-header{
-    width: 1440px; 
-  height: 602px; 
-  background: #000000FF;
-  border-radius: 0px
+.page-blog-header {
+    width: 1440px;
+    height: 602px;
+    background: #000000FF;
+    border-radius: 0px
 }
-.page-blog-header-img{
-    position: absolute;  
-  width: 1176px; 
-  height: 494px; 
-  border-radius: 8px;
+
+.page-blog-header-img {
+    position: absolute;
+    width: 1176px;
+    height: 494px;
+    border-radius: 8px;
+    margin-top: 15px;
+}
+
+.page-blog-header-bt {
+    position: absolute;
+    margin-top: 174px;
+    margin-left: 36px;
+    width: 143px;
+    height: 44px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    line-height: 26px;
+}
+
+.bt {
+    height: 44px;
+    padding-left: 13px;
+    padding-right: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 22px;
+    line-height: 26px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+}
+
+.bt:hover {
+    color: #FFFFFFFF;
+    background: #0095A9FF;
+}
+
+.page-blog-header-text1 {
+    position: absolute;
+    margin-top: 218px;
+    margin-left: 36px;
+    font-size: 24px;
+    line-height: 36px;
+    color: #FFFFFFFF;
+}
+
+.page-blog-header-text2 {
+    position: absolute;
+    margin-top: 254px;
+    margin-left: 36px;
+    font-family: Epilogue;
+    font-size: 40px;
+    line-height: 56px;
+    color: #FFFFFFFF;
+}
+
+.page-blog-header-text3 {
+    position: absolute;
+    margin-top: 326px;
+    margin-left: 36px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #DEE1E6FF;
+}
+
+.page-blog-header-btt {
+    position: absolute;
+    margin-top: 329px;
+    margin-left: 172px;
+    width: 77px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 11px;
+    line-height: 18px;
+}
+
+.btt {
+    height: 24px;
+    padding-left: 6px;
+    padding-right: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 12px;
+}
+
+.btt {
+    font-size: 11px;
+    line-height: 18px;
+    color: #323842FF;
+}
+
+.btt:hover {
+    color: #323842FF;
+    background: #CFD2DAFF;
 }
