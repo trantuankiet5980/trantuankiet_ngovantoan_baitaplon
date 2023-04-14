@@ -1,0 +1,12 @@
+.page-blog-header{
+    width: 1440px; 
+  height: 602px; 
+  background: #000000FF;
+  border-radius: 0px
+}
+.page-blog-header-img{
+    position: absolute;  
+  width: 1176px; 
+  height: 494px; 
+  border-radius: 8px;
+}
