@@ -421,8 +421,9 @@
     margin-top: 50px;
     margin-left: 520px;
 }
-.seemore{
-    height: 44px;
+
+.seemore {
+    height: 42px;
     padding: 0 16px;
     display: flex;
     align-items: center;
@@ -437,7 +438,227 @@
     border-style: solid;
     border-radius: 4px;
 }
-.seemore:hover{
+
+.seemore:hover {
     color: #00A9C0FF;
     background: #00000000;
+}
+
+.page-blog-NeedSupport {
+    height: 992px;
+    background: #000000FF;
+    display: flex;
+}
+
+.page-blog-NeedSupport-left {
+    margin-top: 96px;
+    margin-right: 55px;
+}
+
+.page-blog-NeedSupport-left-title {
+    font-size: 48px;
+    line-height: 68px;
+    color: #DEE1E6FF;
+}
+
+.page-blog-NeedSupport-left-text {
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 28px;
+    color: #9095A0FF;
+    margin-top: 12px;
+}
+
+.page-blog-NeedSupport-left-img {
+    width: 472px;
+    height: 666px;
+    border-radius: 8px;
+    margin-top: 25px;
+}
+
+.page-blog-NeedSupport-right {
+    margin-top: 96px;
+    margin-left: 55px;
+}
+
+.page-blog-NeedSupport-right-firstlast {
+    display: flex;
+}
+
+.first {
+    margin-right: 22px;
+}
+
+.first h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.first input {
+    width: 250px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+
+.last h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.last input {
+    width: 250px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+
+.page-blog-NeedSupport-right-email{
+    margin-top: 30px;
+}
+.page-blog-NeedSupport-right-email h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.page-blog-NeedSupport-right-email input {
+    width: 564px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+.page-blog-NeedSupport-right-Companyname{
+    margin-top: 30px;
+}
+.page-blog-NeedSupport-right-Companyname h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.page-blog-NeedSupport-right-Companyname input {
+    width: 564px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+.page-blog-NeedSupport-right-companysize{
+    margin-top: 30px;
+}
+.page-blog-NeedSupport-right-companysize h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.page-blog-NeedSupport-right-companysize input {
+    width: 564px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+.page-blog-NeedSupport-right-Whichtopic{
+    margin-top: 30px;
+}
+.page-blog-NeedSupport-right-Whichtopic h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.page-blog-NeedSupport-right-Whichtopic input {
+    width: 564px;
+    height: 52px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+.page-blog-NeedSupport-right-Howcan{
+    margin-top: 30px;
+}
+.page-blog-NeedSupport-right-Howcan h4 {
+    font-size: 18px;
+    line-height: 28px;
+    color: rgb(142, 148, 158);
+}
+
+.page-blog-NeedSupport-right-Howcan input {
+    width: 564px;
+    height: 106px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Inter;
+    font-size: 18px;
+    background: #00000000;
+    border-radius: 4px;
+    border-width: 1px;
+    border-color: #565E6CFF;
+}
+.page-blog-NeedSupport-right-submit{
+    margin-top: 43px;
+}
+.page-blog-NeedSupport-right-submit {
+    width: 564;
+    height: 52px;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Inter;
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+    border: none;
+    border-radius: 4px;
+}
+.submit{
+    font-size: 18px;
+    line-height: 28px;
+    color: #FFFFFFFF;
+    background: #00BDD6FF;
+    border: none;
+}
+
+.submit:hover {
+    color: #FFFFFFFF;
+    background: #00A9C0FF;
 }
